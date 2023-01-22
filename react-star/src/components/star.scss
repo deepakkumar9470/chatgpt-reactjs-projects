@@ -1,0 +1,14 @@
+
+.star {
+    color: black;
+    &.red {
+      color: red;
+    }
+    &.blue {
+      color: blue;
+    }
+    &.green {
+      color: green;
+    }
+  }
+  
